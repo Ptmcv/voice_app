@@ -1,0 +1,11 @@
+{
+  "mode": "line_by_line",
+  "chunk_size": 1000,
+  "end_pause": 0.0,
+  "output_folder": "A:/ролики/комиксы\\САША ЯША\\озвучка",
+  "projects_folder": "A:/ролики/комиксы",
+  "preview_text": "Привет! Это пример моего голоса.",
+  "video_fit_mode": "fit",
+  "keep_original_audio": true,
+  "original_volume": 99
+}
